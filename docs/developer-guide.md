@@ -70,7 +70,3 @@ Welcome to the Evo developer guide! This guide provides information for develope
 
 * **Chat:**
    - Join the Evo chat channel for real-time communication with other developers: [link to chat channel]
-
-This `developer-guide.md` provides a starting point for developers who want to contribute to Evo. It covers development environment setup, coding conventions, API documentation, testing procedures, contribution guidelines, and community resources. As the project evolves, this guide can be expanded with more detailed information and specific instructions for different areas of the codebase.
-
-Now, should we move on to the API Documentation (`api-documentation.md`)? This will likely be the most technically detailed document, and we can leverage tools like Doxygen or Swagger to help generate it from code comments.

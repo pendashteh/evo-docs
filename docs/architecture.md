@@ -88,7 +88,3 @@ Security is a primary concern in Evo's design.
 * **Advanced Agent Interactions:** Develop more sophisticated mechanisms for agent discovery, negotiation, and collaboration.
 * **AI Integration:** Integrate AI agents to automate tasks and provide intelligent assistance.
 * **Cross-Platform Expansion:** Expand support for different browsers and operating systems.
-
-This `architecture.md` document provides a comprehensive overview of Evo's technical design. It explains the key components, the agent model, communication protocols, security considerations, and future directions. This document serves as a valuable resource for developers, contributors, and technically-minded users who want to understand the inner workings of Evo.
-
-Shall we proceed with the User Guide (`user-guide.md`) next?
